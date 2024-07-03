@@ -1,0 +1,24 @@
+Problem Statement
+Design and implement a data structure for Least Recently Used (LRU) cache. It should support the following operations:
+
+get(key): Retrieve the value associated with the key if the key exists in the cache, otherwise return -1.
+put(key, value): Insert the value if the key is not already present. If the cache reaches its capacity, it should invalidate the least recently used item before inserting a new item.
+Key Requirements
+Both get and put operations should run in O(1) time.
+Solution Approach
+To achieve O(1) time complexity for both operations, we use a combination of a Dictionary (for O(1) access to keys) and a LinkedList (to maintain the order of use).
+
+Dictionary:
+
+Maps keys to nodes in the LinkedList.
+Allows O(1) access to check if a key exists and to retrieve or update its value.
+LinkedList:
+
+Stores the keys and values.
+Allows O(1) time complexity for adding and removing nodes.
+The most recently used items are at the front, and the least recently used items are at the end.
+Data Structures
+Dictionary<int, LinkedListNode<(int key, int value)>:
+Maps each key to its corresponding node in the linked list.
+LinkedList<(int key, int value)>:
+Doubly linked list to maintain the order of items. The front of the list is the most recently used, and the back is the least recently used.

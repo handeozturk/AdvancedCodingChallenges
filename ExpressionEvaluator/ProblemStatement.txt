@@ -1,0 +1,25 @@
+Problem Statement:
+You are given a string representing a mathematical expression consisting of digits, operators (+, -, *, /), and parentheses ((, )). Write a function/method to evaluate the expression and return the result.
+
+Input:
+A string representing a valid mathematical expression. The expression can contain:
+
+Digits (0-9)
+Operators (+, -, *, /)
+Parentheses ((, ))
+Output:
+Return the evaluated result of the mathematical expression as an integer.
+
+Example:
+Input: "3 + 4 * (2 - 1)"
+
+Output: 7
+
+Input: "(1 + 2) * 3 - 6 / 2"
+
+Output: 9
+
+Constraints:
+The input string is guaranteed to be valid and well-formed.
+Assume all operations are integer operations (no floating point arithmetic needed).
+The expression may contain spaces which can be ignored during parsing.

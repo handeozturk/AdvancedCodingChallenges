@@ -1,0 +1,22 @@
+Problem Statement:
+You are given a list of integers, where each integer appears exactly twice except for one integer which appears exactly once. Your task is to write a function/method to find and return this unique integer.
+
+Input:
+An array of integers where:
+
+The length of the array is always odd (2n + 1, where n is a non-negative integer).
+All integers except one appear twice.
+Output:
+Return the integer that appears only once.
+
+Example:
+Input: [4, 2, 3, 2, 4]
+
+Output: 3
+
+Input: [7, 1, 2, 4, 5, 2, 4, 1, 5]
+
+Output: 7
+
+Constraints:
+You must solve the problem in O(n) time complexity without using extra space (i.e., O(1) extra space).

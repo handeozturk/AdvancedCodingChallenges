@@ -1,0 +1,14 @@
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MedianFinder/bin/Debug/net8.0/MedianFinder
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MedianFinder/bin/Debug/net8.0/MedianFinder.deps.json
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MedianFinder/bin/Debug/net8.0/MedianFinder.runtimeconfig.json
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MedianFinder/bin/Debug/net8.0/MedianFinder.dll
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MedianFinder/bin/Debug/net8.0/MedianFinder.pdb
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MedianFinder/obj/Debug/net8.0/MedianFinder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MedianFinder/obj/Debug/net8.0/MedianFinder.AssemblyInfoInputs.cache
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MedianFinder/obj/Debug/net8.0/MedianFinder.AssemblyInfo.cs
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MedianFinder/obj/Debug/net8.0/MedianFinder.csproj.CoreCompileInputs.cache
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MedianFinder/obj/Debug/net8.0/MedianFinder.dll
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MedianFinder/obj/Debug/net8.0/refint/MedianFinder.dll
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MedianFinder/obj/Debug/net8.0/MedianFinder.pdb
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MedianFinder/obj/Debug/net8.0/MedianFinder.genruntimeconfig.cache
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MedianFinder/obj/Debug/net8.0/ref/MedianFinder.dll

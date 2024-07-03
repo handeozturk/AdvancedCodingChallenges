@@ -1,0 +1,14 @@
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MergeIntervals/bin/Debug/net8.0/MergeIntervals
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MergeIntervals/bin/Debug/net8.0/MergeIntervals.deps.json
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MergeIntervals/bin/Debug/net8.0/MergeIntervals.runtimeconfig.json
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MergeIntervals/bin/Debug/net8.0/MergeIntervals.dll
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MergeIntervals/bin/Debug/net8.0/MergeIntervals.pdb
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MergeIntervals/obj/Debug/net8.0/MergeIntervals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MergeIntervals/obj/Debug/net8.0/MergeIntervals.AssemblyInfoInputs.cache
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MergeIntervals/obj/Debug/net8.0/MergeIntervals.AssemblyInfo.cs
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MergeIntervals/obj/Debug/net8.0/MergeIntervals.csproj.CoreCompileInputs.cache
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MergeIntervals/obj/Debug/net8.0/MergeIntervals.dll
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MergeIntervals/obj/Debug/net8.0/refint/MergeIntervals.dll
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MergeIntervals/obj/Debug/net8.0/MergeIntervals.pdb
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MergeIntervals/obj/Debug/net8.0/MergeIntervals.genruntimeconfig.cache
+/Users/handeadali/Documents/Projects/AdvancedCodingChallenges/MergeIntervals/obj/Debug/net8.0/ref/MergeIntervals.dll
