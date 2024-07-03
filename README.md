@@ -38,7 +38,7 @@ cd LongestSubstring
 
 ## License
 
-:page_facing_up: This repository is licensed under the MIT License. For more details, see the LICENSE file.
+:page_facing_up: This repository is licensed under the MIT License. For more details, see the [LICENSE](https://github.com/handeozturk/AdvancedCodingChallenges/blob/main/LICENSE) file.
 
 --- 
 🎉 Thank you for visiting! Enjoy exploring the world of algorithms and data structures. 🚀
